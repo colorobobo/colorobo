@@ -1,0 +1,44 @@
+
+* {
+	background-color: white;
+	color: black;
+	font-size: 1em;
+}
+
+h1 {
+	font-size: 2em;
+	text-align: center;
+}
+
+h2 {
+	font-size: 1.6em;
+}
+
+h3 {
+	font-size: 1.2em;
+}
+
+.smallScreenshot {
+	margin: 0px 5px 0px 0px;
+	border: 2px solid rgb(170,170,170);
+	vertical-align:middle
+}
+
+.screenshot {
+	margin: 0px 10px 0px 0px;
+	border: 2px solid black;
+}
+
+.screenshotIcon {
+	border: 2px solid black;
+}
+
+
+div {
+ display: flex;
+ align-items: center;
+}
+
+
+
+
